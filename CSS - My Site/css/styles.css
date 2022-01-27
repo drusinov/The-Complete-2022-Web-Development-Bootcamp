@@ -1,0 +1,13 @@
+body {
+    background-color: #FFBCD1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #6867AC;
+}
+
+img {
+    border-radius: 80%;
+    height: 50%;
+    width: 50%;
+}
