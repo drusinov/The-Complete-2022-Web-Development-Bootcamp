@@ -1,13 +1,36 @@
 body {
-    background-color: #FFBCD1;
+    background-color: #ECDBBA;
+    margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #6867AC;
+    color: #161616;
+    margin-top: 0;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 img {
     border-radius: 80%;
     height: 50%;
     width: 50%;
+}
+
+.intro {
+    background-color: #346751;
+}
+
+.middle-container {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(185, 32, 32);
+}
+
+.bottom-container {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(32, 80, 185);
 }
